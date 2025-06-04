@@ -1,1 +1,1 @@
-export const BACKEND_URL="http://localhost:4040/api/v1"
+export const BACKEND_URL="https://deepseek-clone-iw63.onrender.com/api/v1"
